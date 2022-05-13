@@ -18,16 +18,4 @@
 1) netfilterqueue
 2) scapy
 
-### Credits:
-1) Meghana Holla : https://github.com/meghana-holla
-1) Ornella D'souza : https://github.com/Onurene
 
-### Author
-
-1) Email: nishant.aklecha@gmail.com
-2) LinkedIn: https://www.linkedin.com/in/naklecha
-3) CodeChef: https://www.codechef.com/users/naklecha
-4) PYPI: https://pypi.org/user/naklecha
-5) GitHub: https://github.com/Naklecha
-
-##### *"Any suggestions would be appreciated"*
